@@ -1,0 +1,15 @@
+{
+  "name": "claudia",
+  "version": "1.0.0",
+  "description": "first bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "claudia-api-builder": "^2.5.1",
+    "claudia-bot-builder": "^2.15.0"
+  }
+}
